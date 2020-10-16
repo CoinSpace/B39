@@ -1,6 +1,6 @@
 {
   "name": "@coinspace/b39",
-  "version": "2.1.2",
+  "version": "2.1.3",
   "description": "Bitcoin BIP39: Mnemonic code for generating deterministic keys",
   "main": "index.js",
   "scripts": {
