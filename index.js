@@ -91,6 +91,8 @@ export function validateMnemonic(mnemonic, wordlist) {
   return true;
 }
 
+export { DEFAULT_WORDLIST };
+
 //=========== helper methods ========
 
 function normalize(str) {
